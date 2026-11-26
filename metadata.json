@@ -1,0 +1,6 @@
+{
+  "name": "Hidayat Academy",
+  "description": "Online Quran Academy featuring certified teachers, a 3-day free trial with automatic dashboard lock, fee payment unlocking, and live 1-on-1 online classes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
